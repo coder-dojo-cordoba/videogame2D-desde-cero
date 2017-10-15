@@ -57,3 +57,36 @@ Affinity Designer:
 > La versión gratuita de Affinity. Es un programa relativamente nuevo.
 
 En caso de que busquen enfocarse en el estilo pixel art. Hay varios programas enfocados a eso, pero no se nada sobre ese estilo, y nunca use esos programas.
+
+
+
+**Diseñando el Personaje**
+
+Como les comente yo voy a hacerlo en CorelDraw X3 pero el proceso es similar en casi todos los programas.
+
+[![](https://k61.kn3.net/taringa/2/9/9/9/B/1/RichLazydog/C5A.png)](http:////kn3.net/RichLazydog/61-2-9-9-9-B-1-C5A-PNG.html)
+Primero configuramos la pagina(en pixels) a 1024x1024
+
+[![](https://k60.kn3.net/taringa/9/9/9/4/3/7/RichLazydog/FB8.png)](http:////kn3.net/RichLazydog/60-9-9-9-4-3-7-FB8-PNG.html)
+Después con la herramienta circulo, "boceteo" lo que quiero hacer. En este caso las manos, pies, cabeza y el cuerpo.
+Vamos a hacer un personaje estilo rayman, con las extremidades separadas del cuerpo para que sea mas sencillo animar.
+
+[![](https://k61.kn3.net/taringa/F/C/A/9/B/A/RichLazydog/76F.png)](http:////kn3.net/RichLazydog/61-F-C-A-9-B-A-76F-PNG.html)
+Después vamos parte por parte dándole forma. Como ven son todas figuras geométricas superpuestas. En el caso de los pies con semicírculos, con un rectángulo en la planta de los pies.
+
+Agregue un fondo verde solo para poder ver las partes blancas.
+
+[![](https://k61.kn3.net/taringa/7/8/4/A/E/E/RichLazydog/CEE.png)](http:////kn3.net/RichLazydog/61-7-8-4-A-E-E-CEE-PNG.html)
+Y así seguimos hasta tener al personaje completo. En este caso un tipo común de campera y jean, con una gorra. Armado con un bate y una pistola.
+
+Si, un típico personaje genérico ![Tutorial](https://o1.t26.net/images/smiles/smile.gif "Tutorial")
+
+Pero esto es solo el tutorial, ustedes pueden dejar volar su imaginación y hacer sus propios e increíbles personajes.
+
+Por ejemplo una mujer-gato, que pelea contra hombres-perro
+[![](https://k60.kn3.net/taringa/8/E/6/E/1/2/RichLazydog/927.png)](http:////kn3.net/RichLazydog/60-8-E-6-E-1-2-927-PNG.html)
+
+Un ruso que pelea usando un lanza-empanadas 9000(patente pendiente) contra monstruos basura que quieren aplastarlo
+[![](https://k61.kn3.net/taringa/4/2/A/D/4/E/RichLazydog/D02.png)](http:////kn3.net/RichLazydog/61-4-2-A-D-4-E-D02-PNG.html)
+
+Lo que ustedes quieran! Solo dejen volar la imaginación!
