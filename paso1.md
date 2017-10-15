@@ -90,3 +90,44 @@ Un ruso que pelea usando un lanza-empanadas 9000(patente pendiente) contra monst
 [![](https://k61.kn3.net/taringa/4/2/A/D/4/E/RichLazydog/D02.png)](http:////kn3.net/RichLazydog/61-4-2-A-D-4-E-D02-PNG.html)
 
 Lo que ustedes quieran! Solo dejen volar la imaginación!
+
+
+
+
+**Importar en Unity**[![](https://k60.kn3.net/taringa/0/C/A/9/E/E/RichLazydog/939.png)](http:////kn3.net/RichLazydog/60-0-C-A-9-E-E-939-PNG.html)
+
+El juego lo vamos a montar en el motor para videojuegos Unity.
+
+Lo primero va a ser separar las piezas en partes:
+[![](https://k61.kn3.net/taringa/F/E/5/E/D/0/RichLazydog/EAC.png)](http:////kn3.net/RichLazydog/61-F-E-5-E-D-0-EAC-PNG.html)
+
+Como pueden ver hice una cabeza y un cuerpo extra, que estan completamente de perfil. Para cuando el personaje este de lado:
+[![](https://k61.kn3.net/taringa/2/1/4/D/D/E/RichLazydog/994.png)](http:////kn3.net/RichLazydog/61-2-1-4-D-D-E-994-PNG.html)
+
+Si no hicieron su propio personaje, pueden descargar este desde aquí:[![](https://k61.kn3.net/taringa/0/A/5/8/9/4/RichLazydog/52D.png)](http:////kn3.net/RichLazydog/61-0-A-5-8-9-4-52D-PNG.html)
+
+Una lista rápida de los pasos a seguir:
+Si no lo tienen, descarguen e instalen Unity: [Pagina de descarga de Unity](https://unity3d.com/es/get-unity/download)Abren Unity e inician un nuevo proyecto 2DArrastren la imagen del sprite dentro de UnityCon la imagen seleccionada, en la parte que dice Inspector pongan todo así:![Indie](https://ugc.kn3.net/i/origin/https://i.gyazo.com/7d9a93e1315d5faebaa7bfc5ef186246.png "Indie")
+Presionen "Sprite Editor" y pongan Apply en el cartel que les saltaEn el "SpriteEditor" Pongan la pestaña "Slice" y sin cambiar nada presionen el botón "Slice" Esto es para dividir las partes. Ahora si quieren pueden seleccionar parte por parte y cambiarle el nombre a algo mas especifico, aunque no hace falta.Seleccionen las cabezas y las manos una por una, y muevan el circulo azul que esta en el centro a donde serian las muñecas o el cuello(este punto indica el centro del objeto y por donde se va a girar)![Tutorial](https://ugc.kn3.net/i/origin/https://i.gyazo.com/06deb246f8a4978302ec5451cf86f5cb.png "Tutorial")
+
+Listo ahora que tenemos la imagen lista, podemos seleccionarla en pestaña "Project" y desplegarla para ver las distintas partes
+![Android](https://ugc.kn3.net/i/origin/https://gyazo.com/37cfcda2cee4bf5c806e78a675e6e16a "Android")
+
+En la pestaña "Hierarchy" hagan click derecho > Create Empty para crear el objeto que sera nuestro jugador. Cambien el nombre a "Player" y dentro creen otro Empty y pongan de nombre "Graphics"
+
+Arrastren dentro de Graphics el sprite que es el cuerpo de frente. Dentro de body arrastren los sprites que son la mano derecha, la izquierda, y el sprite de la cabeza. Y fuera de body pongan los sprites de los pies.
+
+Renombren las partes para no entreverarse. Muevan las partes a la ubicación apropiada. Deberia quedarles algo así:
+![Tu propio videojuego 2D desde 0 [P1]](https://ugc.kn3.net/i/origin/https://i.gyazo.com/3e7ac48ed89c5fbf5bab884dff31f59b.png "Tu propio videojuego 2D desde 0 [P1]")
+
+Seleccionen una parte del cuerpo, y donde dice "Sorting Layer" pongan "Add Sorting Layer..." y creen uno nuevo llamado "Player"
+
+Por ultimo seleccionen cada parte y cambienle el Sorting Layer a Player. Y en sorting "Order in Layer" pongan estos valores:
+Body 0
+Mano de la Espada 2
+Mano de la Pistola -1
+Cabeza 1
+Pie derecho 1
+Pie izquierdo -1
+
+Guarden con ctrl+s y ponganle el nombre que quieran a la escena.
